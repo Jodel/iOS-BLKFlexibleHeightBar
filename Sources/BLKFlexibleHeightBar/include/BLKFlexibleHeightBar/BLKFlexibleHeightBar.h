@@ -22,6 +22,9 @@
 #import "BLKFlexibleHeightBarBehaviorDefiner.h"
 #import "BLKFlexibleHeightBarSubviewLayoutAttributes.h"
 #import "UIView+BLKFlexibleHeightBarSubview.h"
+#import "BLKDelegateSplitter.h"
+#import "FacebookStyleBarBehaviorDefiner.h"
+#import "SquareCashStyleBehaviorDefiner.h"
 
 /**
  The `BLKFlexibleHeightBar` class is responsible for adjusting the layout attributes (i.e. frame, transform, alpha) of its subviews depending on its current height.
